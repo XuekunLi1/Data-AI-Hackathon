@@ -2,6 +2,10 @@
 # dependencies 
 Python Packages: pandas, seaborn, datetime, numpy, sklearn, matplotlib
 
+# Dataset
+https://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_1.zip
+Data file should be in the same folder as thee code.
+
 # DATA-AI-Hackathon-Track-1
 Pharamcy2U Challenge for the Data&amp;AI Hackathon, 30-31 March 2026, University of Leeds
 # Hackathon Track 1: Prescription Refill Risk & Recommendations
