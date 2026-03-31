@@ -1,5 +1,5 @@
 # It is recommended to run this code on Colab platform.
-# dependencies 
+# Dependencies 
 Python Packages: pandas, seaborn, datetime, numpy, sklearn, matplotlib
 
 # Dataset
