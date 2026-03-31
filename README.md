@@ -1,3 +1,7 @@
+# It is recommended to run this code on Colab platform.
+# dependencies 
+Python Packages: pandas, seaborn, datetime, numpy, sklearn, matplotlib
+
 # DATA-AI-Hackathon-Track-1
 Pharamcy2U Challenge for the Data&amp;AI Hackathon, 30-31 March 2026, University of Leeds
 # Hackathon Track 1: Prescription Refill Risk & Recommendations
